@@ -15,6 +15,6 @@ Le logiciel utilisé pour ce faire est R-Studio.
 Les scripts sont mis à disposition dans le présent repository, respectivement sous les noms de:
 1) PersonnesPhysiques_ClasseRevenuBrut
 2) PersonnesPhysiques_ClasseRevenuImposable
-3) PersonnesPhysiques_ClasseFortuneBrute
-4) PersonnesPhysiques_ClasseFortuneImposable
+3) PersonnesPhysiques_FortuneBrute
+4) PersonnesPhysiques_FortuneImposable
 
